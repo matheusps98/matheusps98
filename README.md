@@ -6,7 +6,7 @@ Desenvolvedor full‑stack com foco em frontend moderno e boas práticas.
 
 Se você chegou aqui, quer ver minhas stacks, projetos e como me contatar.
 
-[![Website](https://img.shields.io/website?url=https://seu-site.com&style=flat-square&logo=google-chrome&logoColor=white&label=Portfólio)](https://matheussilva.vercel.app)
+[![Website](https://img.shields.io/website?url=https://matheussilva.vercel.app&style=flat-square&logo=google-chrome&logoColor=white&label=Portfólio)](https://matheussilva.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&)](https://www.linkedin.com/in/matheus-silvah/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.eduf98@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/matheuspsilvah/)
@@ -45,6 +45,19 @@ Se quiser conhecer os meus projetos, abaixo:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- SVG animado embutido: bola se movendo por um caminho (snake-like) -->
+<svg viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animação snake">
+	<defs>
+		<path id="snakePath" d="M20 60 C120 10, 240 110, 340 60 S520 10, 580 60" fill="none" />
+	</defs>
+	<g stroke="none" fill="none">
+		<path d="M20 60 C120 10, 240 110, 340 60 S520 10, 580 60" stroke="#e6f2fb" stroke-width="18" stroke-linecap="round" opacity="0.45"/>
+	</g>
+	<circle r="10" fill="#0ea5e9">
+		<animateMotion dur="4s" repeatCount="indefinite" rotate="auto">
+			<mpath href="#snakePath" />
+		</animateMotion>
+	</circle>
+</svg>
 
 ###
