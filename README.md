@@ -40,3 +40,5 @@ Se quiser conhecer os meus projetos, abaixo:
 - [Site Metalurgica JC](https://www.metalurgicajc.com.br/)
 - [Site E-travel Viagens e turismo](https://www.etravelviagens.com.br/)
 - [Landing Page Guia da Alimentação Saúdavel](https://www.anapatriciasilva.com.br/)
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
