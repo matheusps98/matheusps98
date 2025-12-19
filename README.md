@@ -33,5 +33,6 @@ Se quiser conhecer os meus projetos, abaixo:
 - [Site MBtech](https://mbtech-dev.vercel.app/)
 - [Site EJ advocacia](https://ejadvconsujus.com.br/index)
 - [Site Easy Solucões](https://easysolucoes.vercel.app/)
+- [Site Metalurgica JC](https://www.metalurgicajc.com.br/)
 - [Site E-travel Viagens e turismo](https://www.etravelviagens.com.br/)
 - [Landing Page Guia da Alimentação Saúdavel](https://www.anapatriciasilva.com.br/)
