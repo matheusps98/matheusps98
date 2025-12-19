@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Silva 👋
+## Olá! Eu sou Matheus Silva 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -40,24 +40,3 @@ Se quiser conhecer os meus projetos, abaixo:
 - [Site Metalurgica JC](https://www.metalurgicajc.com.br/)
 - [Site E-travel Viagens e turismo](https://www.etravelviagens.com.br/)
 - [Landing Page Guia da Alimentação Saúdavel](https://www.anapatriciasilva.com.br/)
-
-###
-
-<br clear="both">
-
-<!-- SVG animado embutido: bola se movendo por um caminho (snake-like) -->
-<svg viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animação snake">
-	<defs>
-		<path id="snakePath" d="M20 60 C120 10, 240 110, 340 60 S520 10, 580 60" fill="none" />
-	</defs>
-	<g stroke="none" fill="none">
-		<path d="M20 60 C120 10, 240 110, 340 60 S520 10, 580 60" stroke="#e6f2fb" stroke-width="18" stroke-linecap="round" opacity="0.45"/>
-	</g>
-	<circle r="10" fill="#0ea5e9">
-		<animateMotion dur="4s" repeatCount="indefinite" rotate="auto">
-			<mpath href="#snakePath" />
-		</animateMotion>
-	</circle>
-</svg>
-
-###
