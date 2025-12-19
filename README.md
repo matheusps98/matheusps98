@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Matheus Silva 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 Desenvolvedor full‑stack com foco em frontend moderno e boas práticas.
 
 Se você chegou aqui, quer ver minhas stacks, projetos e como me contatar.
@@ -24,6 +26,8 @@ Abaixo algumas das stacks que utilizo no meu dia a dia em programação.
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusps98&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusps98&stats_format=percentages)
 
 Apaixonado por tecnologia e programação.
 
