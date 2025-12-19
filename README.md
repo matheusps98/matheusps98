@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Silva 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 Desenvolvedor full‑stack com foco em frontend moderno e boas práticas.
 
@@ -41,4 +41,10 @@ Se quiser conhecer os meus projetos, abaixo:
 - [Site E-travel Viagens e turismo](https://www.etravelviagens.com.br/)
 - [Landing Page Guia da Alimentação Saúdavel](https://www.anapatriciasilva.com.br/)
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
