@@ -25,9 +25,9 @@ Abaixo algumas das stacks que utilizo no meu dia a dia em programação.
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)](https://python.org)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusps98&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusps98&show_icons=true&theme=transparent&custom_title=Estat%C3%ADsticas%20do%20GitHub)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusps98&stats_format=percentages&theme=transparent&title_color=2f80ed&text_color=94a3b8&icon_color=2f80ed&border_color=1f2937)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusps98&stats_format=percentages&theme=transparent&title_color=2f80ed&text_color=94a3b8&icon_color=2f80ed&border_color=fff&custom_title=Linguagens%20Mais%20Usadas)
 
 Apaixonado por tecnologia e programação.
 
