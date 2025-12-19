@@ -27,7 +27,7 @@ Abaixo algumas das stacks que utilizo no meu dia a dia em programação.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusps98&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusps98&stats_format=percentages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusps98&stats_format=percentages&theme=transparent&title_color=2f80ed&text_color=94a3b8&icon_color=2f80ed&border_color=1f2937)
 
 Apaixonado por tecnologia e programação.
 
